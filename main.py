@@ -24,9 +24,7 @@ template_id = os.environ["TEMPLATE_ID"]
 # 用户列表 也可通过接口获取，但是接口获取的只有用户id没有用户昵称，不方便部分数据展示，如果有新增人员，对应添加一个user对象即可
 user_id_list = [
     {'user_id': 'o9QRR5-Ol_Dr3EuNzN3Sp1orAKPA', "name": "瞧一瞧", "date": "2020-12-21", "birthday": "07-06",
-     'city': '610100'},
-     {'user_id': 'olqaK5haaWE7C8NJ8bclDpKp0Zg8', "name": "苏子瑜", "date": "2021-03-01", "birthday": "05-01",
-     'city': '440300'}
+     'city': '610100'}
 ]
 
 
